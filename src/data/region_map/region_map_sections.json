@@ -1,0 +1,1243 @@
+{
+  "map_sections": [
+    {
+      "id": "MAPSEC_LITTLEROOT_TOWN",
+      "name": "TT.MỸ BẠCH",
+      "x": 4,
+      "y": 11,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_OLDALE_TOWN",
+      "name": "TT.CỔ THỜI",
+      "x": 4,
+      "y": 9,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_DEWFORD_TOWN",
+      "name": "THÔN ĐẢO",
+      "x": 2,
+      "y": 14,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_LAVARIDGE_TOWN",
+      "name": "TT.NÚI LỬA",
+      "x": 5,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_FALLARBOR_TOWN",
+      "name": "NÔNG TRẠI NHỎ",
+      "x": 3,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_VERDANTURF_TOWN",
+      "name": "TT.GIẢN ĐƠN",
+      "x": 4,
+      "y": 6,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_PACIFIDLOG_TOWN",
+      "name": "LÀNG NỔI",
+      "x": 17,
+      "y": 10,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_PETALBURG_CITY",
+      "name": "TP.HOA CAM",
+      "x": 1,
+      "y": 9,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_SLATEPORT_CITY",
+      "name": "TP.CẢNG",
+      "x": 8,
+      "y": 10,
+      "width": 1,
+      "height": 2
+    },
+    {
+      "id": "MAPSEC_MAUVILLE_CITY",
+      "name": "TP.HOA TÍM",
+      "x": 8,
+      "y": 6,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_RUSTBORO_CITY",
+      "name": "TP.KIM THÁN",
+      "x": 0,
+      "y": 5,
+      "width": 1,
+      "height": 2
+    },
+    {
+      "id": "MAPSEC_FORTREE_CITY",
+      "name": "TP.CÂY",
+      "x": 12,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_LILYCOVE_CITY",
+      "name": "TP.BIỂN",
+      "x": 18,
+      "y": 3,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MOSSDEEP_CITY",
+      "name": "TP.XANH RÊU",
+      "x": 24,
+      "y": 5,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_SOOTOPOLIS_CITY",
+      "name": "TP.LƯU NIẾT",
+      "x": 21,
+      "y": 7,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_EVER_GRANDE_CITY",
+      "name": "TP.SẮC MÀU",
+      "x": 27,
+      "y": 8,
+      "width": 1,
+      "height": 2
+    },
+    {
+      "id": "MAPSEC_ROUTE_101",
+      "name": "ĐƯỜNG 101",
+      "x": 4,
+      "y": 10,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_102",
+      "name": "ĐƯỜNG 102",
+      "x": 2,
+      "y": 9,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_103",
+      "name": "ĐƯỜNG 103",
+      "x": 4,
+      "y": 8,
+      "width": 4,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_104",
+      "name": "ĐƯỜNG 104",
+      "x": 0,
+      "y": 7,
+      "width": 1,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_ROUTE_105",
+      "name": "ĐƯỜNG 105",
+      "x": 0,
+      "y": 10,
+      "width": 1,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_ROUTE_106",
+      "name": "ĐƯỜNG 106",
+      "x": 0,
+      "y": 13,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_107",
+      "name": "ĐƯỜNG 107",
+      "x": 3,
+      "y": 14,
+      "width": 3,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_108",
+      "name": "ĐƯỜNG 108",
+      "x": 6,
+      "y": 14,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_109",
+      "name": "ĐƯỜNG 109",
+      "x": 8,
+      "y": 12,
+      "width": 1,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_ROUTE_110",
+      "name": "ĐƯỜNG 110",
+      "x": 8,
+      "y": 7,
+      "width": 1,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_ROUTE_111",
+      "name": "ĐƯỜNG 111",
+      "x": 8,
+      "y": 0,
+      "width": 1,
+      "height": 6
+    },
+    {
+      "id": "MAPSEC_ROUTE_112",
+      "name": "ĐƯỜNG 112",
+      "x": 6,
+      "y": 3,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_113",
+      "name": "ĐƯỜNG 113",
+      "x": 4,
+      "y": 0,
+      "width": 4,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_114",
+      "name": "ĐƯỜNG 114",
+      "x": 1,
+      "y": 0,
+      "width": 2,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_ROUTE_115",
+      "name": "ĐƯỜNG 115",
+      "x": 0,
+      "y": 2,
+      "width": 1,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_ROUTE_116",
+      "name": "ĐƯỜNG 116",
+      "x": 1,
+      "y": 5,
+      "width": 4,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_117",
+      "name": "ĐƯỜNG 117",
+      "x": 5,
+      "y": 6,
+      "width": 3,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_118",
+      "name": "ĐƯỜNG 118",
+      "x": 10,
+      "y": 6,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_119",
+      "name": "ĐƯỜNG 119",
+      "x": 11,
+      "y": 0,
+      "width": 1,
+      "height": 6
+    },
+    {
+      "id": "MAPSEC_ROUTE_120",
+      "name": "ĐƯỜNG 120",
+      "x": 13,
+      "y": 0,
+      "width": 1,
+      "height": 4
+    },
+    {
+      "id": "MAPSEC_ROUTE_121",
+      "name": "ĐƯỜNG 121",
+      "x": 14,
+      "y": 3,
+      "width": 4,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_122",
+      "name": "ĐƯỜNG 122",
+      "x": 16,
+      "y": 4,
+      "width": 1,
+      "height": 2
+    },
+    {
+      "id": "MAPSEC_ROUTE_123",
+      "name": "ĐƯỜNG 123",
+      "x": 12,
+      "y": 6,
+      "width": 5,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_124",
+      "name": "ĐƯỜNG 124",
+      "x": 20,
+      "y": 3,
+      "width": 4,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_ROUTE_125",
+      "name": "ĐƯỜNG 125",
+      "x": 24,
+      "y": 3,
+      "width": 2,
+      "height": 2
+    },
+    {
+      "id": "MAPSEC_ROUTE_126",
+      "name": "ĐƯỜNG 126",
+      "x": 20,
+      "y": 6,
+      "width": 3,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_ROUTE_127",
+      "name": "ĐƯỜNG 127",
+      "x": 23,
+      "y": 6,
+      "width": 3,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_ROUTE_128",
+      "name": "ĐƯỜNG 128",
+      "x": 23,
+      "y": 9,
+      "width": 4,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_129",
+      "name": "ĐƯỜNG 129",
+      "x": 24,
+      "y": 10,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_130",
+      "name": "ĐƯỜNG 130",
+      "x": 21,
+      "y": 10,
+      "width": 3,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_131",
+      "name": "ĐƯỜNG 131",
+      "x": 18,
+      "y": 10,
+      "width": 3,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_132",
+      "name": "ĐƯỜNG 132",
+      "x": 15,
+      "y": 10,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_133",
+      "name": "ĐƯỜNG 133",
+      "x": 12,
+      "y": 10,
+      "width": 3,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ROUTE_134",
+      "name": "ĐƯỜNG 134",
+      "x": 9,
+      "y": 10,
+      "width": 3,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_124",
+      "name": "DƯỚI NƯỚC",
+      "x": 20,
+      "y": 3,
+      "width": 4,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_126",
+      "name": "DƯỚI NƯỚC",
+      "x": 20,
+      "y": 6,
+      "width": 3,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_127",
+      "name": "DƯỚI NƯỚC",
+      "x": 23,
+      "y": 6,
+      "width": 3,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_128",
+      "name": "DƯỚI NƯỚC",
+      "x": 23,
+      "y": 9,
+      "width": 4,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_SOOTOPOLIS",
+      "name": "DƯỚI NƯỚC",
+      "x": 21,
+      "y": 7,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_GRANITE_CAVE",
+      "name": "HANG ĐÁ",
+      "x": 1,
+      "y": 13,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MT_CHIMNEY",
+      "name": "NÚI LỬA",
+      "x": 6,
+      "y": 2,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_SAFARI_ZONE",
+      "name": "KHU SAFARI",
+      "x": 16,
+      "y": 2,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_BATTLE_FRONTIER",
+      "name": "CHIẾN KHU",
+      "x": 22,
+      "y": 12,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_PETALBURG_WOODS",
+      "name": "RỪNG HOA CAM",
+      "x": 0,
+      "y": 8,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_RUSTURF_TUNNEL",
+      "name": "Đ.HẦM KIM CHI",
+      "x": 2,
+      "y": 5,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ABANDONED_SHIP",
+      "name": "TÀU BỎ HOANG",
+      "x": 6,
+      "y": 14,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_NEW_MAUVILLE",
+      "name": "NHÀ MÁY ĐIỆN",
+      "x": 8,
+      "y": 7,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_METEOR_FALLS",
+      "name": "THÁC SAO BĂNG",
+      "x": 0,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_METEOR_FALLS2",
+      "name": "THÁC SAO BĂNG",
+      "x": 1,
+      "y": 2,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MT_PYRE",
+      "name": "NÚI TIỄN ĐƯA",
+      "x": 16,
+      "y": 4,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_AQUA_HIDEOUT_OLD",
+      "name": "CĂN CỨ ĐỘI {AQUA}",
+      "name_clone": true,
+      "x": 19,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_SHOAL_CAVE",
+      "name": "HANG NƯỚC CẠN",
+      "x": 24,
+      "y": 4,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_SEAFLOOR_CAVERN",
+      "name": "HANG ĐÁY BIỂN",
+      "x": 24,
+      "y": 9,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_SEAFLOOR_CAVERN",
+      "name": "DƯỚI NƯỚC",
+      "x": 24,
+      "y": 9,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_VICTORY_ROAD",
+      "name": "ĐƯỜNG VINH QUANG",
+      "x": 27,
+      "y": 9,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MIRAGE_ISLAND",
+      "name": "ĐẢO ẢO ẢNH",
+      "x": 17,
+      "y": 10,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_CAVE_OF_ORIGIN",
+      "name": "HANG CỘI NGUỒN",
+      "x": 21,
+      "y": 7,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_SOUTHERN_ISLAND",
+      "name": "ĐẢO PHÍA NAM",
+      "x": 12,
+      "y": 14,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_FIERY_PATH",
+      "name": "ĐƯỜNG NÚI LỬA",
+      "x": 6,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_FIERY_PATH2",
+      "name": "ĐƯỜNG NÚI LỬA",
+      "x": 7,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_JAGGED_PASS",
+      "name": "ĐƯỜNG NHẤP NHÔ",
+      "x": 6,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_JAGGED_PASS2",
+      "name": "ĐƯỜNG NHẤP NHÔ",
+      "x": 7,
+      "y": 2,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_SEALED_CHAMBER",
+      "name": "HẦM ĐÁ SẮC LỆNH",
+      "x": 11,
+      "y": 10,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_SEALED_CHAMBER",
+      "name": "DƯỚI NƯỚC",
+      "x": 11,
+      "y": 10,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_SCORCHED_SLAB",
+      "name": "HANG NẮNG HẠN",
+      "x": 13,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ISLAND_CAVE",
+      "name": "HANG ĐẢO NHỎ",
+      "x": 0,
+      "y": 10,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_DESERT_RUINS",
+      "name": "TÀN TÍCH SA MẠC",
+      "x": 8,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ANCIENT_TOMB",
+      "name": "MỘ CỔ",
+      "x": 13,
+      "y": 2,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_INSIDE_OF_TRUCK",
+      "name": "TRONG XE TẢI"
+    },
+    {
+      "id": "MAPSEC_SKY_PILLAR",
+      "name": "CỘT TRỜI",
+      "x": 19,
+      "y": 10,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_SECRET_BASE",
+      "name": "CĂN CỨ BÍ MẬT"
+    },
+    {
+      "id": "MAPSEC_DYNAMIC",
+      "name": ""
+    },
+    {
+      "id": "MAPSEC_PALLET_TOWN",
+      "name": "TT.CHÂN TÂN"
+    },
+    {
+      "id": "MAPSEC_VIRIDIAN_CITY",
+      "name": "TP.MÃI XANH"
+    },
+    {
+      "id": "MAPSEC_PEWTER_CITY",
+      "name": "TP.ĐẤT ĐỎ"
+    },
+    {
+      "id": "MAPSEC_CERULEAN_CITY",
+      "name": "TP.XANH BIẾC"
+    },
+    {
+      "id": "MAPSEC_LAVENDER_TOWN",
+      "name": "TT.OẢI HƯƠNG"
+    },
+    {
+      "id": "MAPSEC_VERMILION_CITY",
+      "name": "TP.LÁ ÚA"
+    },
+    {
+      "id": "MAPSEC_CELADON_CITY",
+      "name": "TP.NGỌC TRÙNG"
+    },
+    {
+      "id": "MAPSEC_FUCHSIA_CITY",
+      "name": "TP.THẠCH TRÚC"
+    },
+    {
+      "id": "MAPSEC_CINNABAR_ISLAND",
+      "name": "ĐẢO SEN ĐỎ"
+    },
+    {
+      "id": "MAPSEC_INDIGO_PLATEAU",
+      "name": "CAO NGUYÊN THẠCH ANH"
+    },
+    {
+      "id": "MAPSEC_SAFFRON_CITY",
+      "name": "NÚI HOA MAI"
+    },
+    {
+      "id": "MAPSEC_ROUTE_4_POKECENTER",
+      "name": "ĐƯỜNG SỐ 4",
+      "name_clone": true
+    },
+    {
+      "id": "MAPSEC_ROUTE_10_POKECENTER",
+      "name": "ĐƯỜNG SỐ 10",
+      "name_clone": true
+    },
+    {
+      "id": "MAPSEC_ROUTE_1",
+      "name": "ĐƯỜNG SỐ 1"
+    },
+    {
+      "id": "MAPSEC_ROUTE_2",
+      "name": "ĐƯỜNG SỐ 2"
+    },
+    {
+      "id": "MAPSEC_ROUTE_3",
+      "name": "ĐƯỜNG SỐ 3"
+    },
+    {
+      "id": "MAPSEC_ROUTE_4",
+      "name": "ĐƯỜNG SỐ 4"
+    },
+    {
+      "id": "MAPSEC_ROUTE_5",
+      "name": "ĐƯỜNG SỐ 5"
+    },
+    {
+      "id": "MAPSEC_ROUTE_6",
+      "name": "ĐƯỜNG SỐ 6"
+    },
+    {
+      "id": "MAPSEC_ROUTE_7",
+      "name": "ĐƯỜNG SỐ 7"
+    },
+    {
+      "id": "MAPSEC_ROUTE_8",
+      "name": "ĐƯỜNG SỐ 8"
+    },
+    {
+      "id": "MAPSEC_ROUTE_9",
+      "name": "ĐƯỜNG SỐ 9"
+    },
+    {
+      "id": "MAPSEC_ROUTE_10",
+      "name": "ĐƯỜNG SỐ 10"
+    },
+    {
+      "id": "MAPSEC_ROUTE_11",
+      "name": "ĐƯỜNG SỐ 11"
+    },
+    {
+      "id": "MAPSEC_ROUTE_12",
+      "name": "ĐƯỜNG SỐ 12"
+    },
+    {
+      "id": "MAPSEC_ROUTE_13",
+      "name": "ĐƯỜNG SỐ 13"
+    },
+    {
+      "id": "MAPSEC_ROUTE_14",
+      "name": "ĐƯỜNG SỐ 14"
+    },
+    {
+      "id": "MAPSEC_ROUTE_15",
+      "name": "ĐƯỜNG SỐ 15"
+    },
+    {
+      "id": "MAPSEC_ROUTE_16",
+      "name": "ĐƯỜNG SỐ 16"
+    },
+    {
+      "id": "MAPSEC_ROUTE_17",
+      "name": "ĐƯỜNG SỐ 17"
+    },
+    {
+      "id": "MAPSEC_ROUTE_18",
+      "name": "ĐƯỜNG SỐ 18"
+    },
+    {
+      "id": "MAPSEC_ROUTE_19",
+      "name": "ĐƯỜNG SỐ 19"
+    },
+    {
+      "id": "MAPSEC_ROUTE_20",
+      "name": "ĐƯỜNG SỐ 20"
+    },
+    {
+      "id": "MAPSEC_ROUTE_21",
+      "name": "ĐƯỜNG SỐ 21"
+    },
+    {
+      "id": "MAPSEC_ROUTE_22",
+      "name": "ĐƯỜNG SỐ 22"
+    },
+    {
+      "id": "MAPSEC_ROUTE_23",
+      "name": "ĐƯỜNG SỐ 23"
+    },
+    {
+      "id": "MAPSEC_ROUTE_24",
+      "name": "ĐƯỜNG SỐ 24"
+    },
+    {
+      "id": "MAPSEC_ROUTE_25",
+      "name": "ĐƯỜNG SỐ 25"
+    },
+    {
+      "id": "MAPSEC_VIRIDIAN_FOREST",
+      "name": "RỪNG MÃI XANH"
+    },
+    {
+      "id": "MAPSEC_MT_MOON",
+      "name": "NGUYỆT SƠN"
+    },
+    {
+      "id": "MAPSEC_S_S_ANNE",
+      "name": "TÀU THÁNH ANNA"
+    },
+    {
+      "id": "MAPSEC_UNDERGROUND_PATH",
+      "name": "ĐƯỜNG HẦM"
+    },
+    {
+      "id": "MAPSEC_UNDERGROUND_PATH_2",
+      "name": "ĐƯỜNG HẦM",
+      "name_clone": true
+    },
+    {
+      "id": "MAPSEC_DIGLETTS_CAVE",
+      "name": "HANG CHUỘT ĐẤT"
+    },
+    {
+      "id": "MAPSEC_KANTO_VICTORY_ROAD",
+      "name": "ĐƯỜNG VINH QUANG",
+      "name_clone": true
+    },
+    {
+      "id": "MAPSEC_ROCKET_HIDEOUT",
+      "name": "CĂN CỨ ĐHT"
+    },
+    {
+      "id": "MAPSEC_SILPH_CO",
+      "name": "CTY SILPH"
+    },
+    {
+      "id": "MAPSEC_POKEMON_MANSION",
+      "name": "DINH THỰ POKéMON"
+    },
+    {
+      "id": "MAPSEC_KANTO_SAFARI_ZONE",
+      "name": "KHU SĂN BẮT",
+      "name_clone": true
+    },
+    {
+      "id": "MAPSEC_POKEMON_LEAGUE",
+      "name": "LIÊN ĐOÀN POKéMON"
+    },
+    {
+      "id": "MAPSEC_ROCK_TUNNEL",
+      "name": "HẦM ĐÁ"
+    },
+    {
+      "id": "MAPSEC_SEAFOAM_ISLANDS",
+      "name": "ĐẢO BỌT BIỂN"
+    },
+    {
+      "id": "MAPSEC_POKEMON_TOWER",
+      "name": "THÁP POKéMON"
+    },
+    {
+      "id": "MAPSEC_CERULEAN_CAVE",
+      "name": "HANG XANH BIẾC"
+    },
+    {
+      "id": "MAPSEC_POWER_PLANT",
+      "name": "NHÀ MÁY ĐIỆN"
+    },
+    {
+      "id": "MAPSEC_ONE_ISLAND",
+      "name": "ĐẢO 1"
+    },
+    {
+      "id": "MAPSEC_TWO_ISLAND",
+      "name": "ĐẢO 2"
+    },
+    {
+      "id": "MAPSEC_THREE_ISLAND",
+      "name": "ĐẢO 3"
+    },
+    {
+      "id": "MAPSEC_FOUR_ISLAND",
+      "name": "ĐẢO 4"
+    },
+    {
+      "id": "MAPSEC_FIVE_ISLAND",
+      "name": "ĐẢO 5"
+    },
+    {
+      "id": "MAPSEC_SEVEN_ISLAND",
+      "name": "ĐẢO 7"
+    },
+    {
+      "id": "MAPSEC_SIX_ISLAND",
+      "name": "ĐẢO 6"
+    },
+    {
+      "id": "MAPSEC_KINDLE_ROAD",
+      "name": "ĐƯỜNG ĐẤT VÀNG"
+    },
+    {
+      "id": "MAPSEC_TREASURE_BEACH",
+      "name": "BIỂN HỘT XOÀN"
+    },
+    {
+      "id": "MAPSEC_CAPE_BRINK",
+      "name": "MŨI NÉ"
+    },
+    {
+      "id": "MAPSEC_BOND_BRIDGE",
+      "name": "CẦU NỐI"
+    },
+    {
+      "id": "MAPSEC_THREE_ISLE_PORT",
+      "name": "TAM ĐẢO CẢNG"
+    },
+    {
+      "id": "MAPSEC_SEVII_ISLE_6",
+      "name": "ĐẢO SÁU"
+    },
+    {
+      "id": "MAPSEC_SEVII_ISLE_7",
+      "name": "ĐẢO BẢY"
+    },
+    {
+      "id": "MAPSEC_SEVII_ISLE_8",
+      "name": "ĐẢO TÁM"
+    },
+    {
+      "id": "MAPSEC_SEVII_ISLE_9",
+      "name": "ĐẢO CHÍN"
+    },
+    {
+      "id": "MAPSEC_RESORT_GORGEOUS",
+      "name": "KHU NGHỈ DƯỠNG"
+    },
+    {
+      "id": "MAPSEC_WATER_LABYRINTH",
+      "name": "MÊ CUNG NƯỚC"
+    },
+    {
+      "id": "MAPSEC_FIVE_ISLE_MEADOW",
+      "name": "ĐẢO HOA ĐIỀN"
+    },
+    {
+      "id": "MAPSEC_MEMORIAL_PILLAR",
+      "name": "THÁP KỶ NIỆM"
+    },
+    {
+      "id": "MAPSEC_OUTCAST_ISLAND",
+      "name": "ĐẢO LƯU LẠC"
+    },
+    {
+      "id": "MAPSEC_GREEN_PATH",
+      "name": "ĐƯỜNG XANH"
+    },
+    {
+      "id": "MAPSEC_WATER_PATH",
+      "name": "ĐƯỜNG BIỂN"
+    },
+    {
+      "id": "MAPSEC_RUIN_VALLEY",
+      "name": "TL PHẾ TÍCH"
+    },
+    {
+      "id": "MAPSEC_TRAINER_TOWER",
+      "name": "THÁP HUẤN LUYỆN"
+    },
+    {
+      "id": "MAPSEC_CANYON_ENTRANCE",
+      "name": "LỐI VÔ KỲ CẢNH"
+    },
+    {
+      "id": "MAPSEC_SEVAULT_CANYON",
+      "name": "THẤT BẢO"
+    },
+    {
+      "id": "MAPSEC_TANOBY_RUINS",
+      "name": "DI TÍCH TANOBY"
+    },
+    {
+      "id": "MAPSEC_SEVII_ISLE_22",
+      "name": "ĐẢO 22"
+    },
+    {
+      "id": "MAPSEC_SEVII_ISLE_23",
+      "name": "ĐẢO 23"
+    },
+    {
+      "id": "MAPSEC_SEVII_ISLE_24",
+      "name": "ĐẢO 24"
+    },
+    {
+      "id": "MAPSEC_NAVEL_ROCK_FRLG",
+      "name": "ĐÁ RÚN"
+    },
+    {
+      "id": "MAPSEC_MT_EMBER",
+      "name": "NÚI ĐÈN DẦU"
+    },
+    {
+      "id": "MAPSEC_BERRY_FOREST",
+      "name": "RỪNG TRÁI CÂY"
+    },
+    {
+      "id": "MAPSEC_ICEFALL_CAVE",
+      "name": "HANG BĂNG"
+    },
+    {
+      "id": "MAPSEC_ROCKET_WAREHOUSE",
+      "name": "KHO ĐHT"
+    },
+    {
+      "id": "MAPSEC_TRAINER_TOWER_2",
+      "name": "THÁP HUẤN LUYỆN",
+      "name_clone": true
+    },
+    {
+      "id": "MAPSEC_DOTTED_HOLE",
+      "name": "DOTTED HOLE"
+    },
+    {
+      "id": "MAPSEC_LOST_CAVE",
+      "name": "HANG LẠC"
+    },
+    {
+      "id": "MAPSEC_PATTERN_BUSH",
+      "name": "PATTERN BUSH"
+    },
+    {
+      "id": "MAPSEC_ALTERING_CAVE_FRLG",
+      "name": "ALTERING CAVE"
+    },
+    {
+      "id": "MAPSEC_TANOBY_CHAMBERS",
+      "name": "TANOBY CHAMBERS"
+    },
+    {
+      "id": "MAPSEC_THREE_ISLE_PATH",
+      "name": "THREE ISLE PATH"
+    },
+    {
+      "id": "MAPSEC_TANOBY_KEY",
+      "name": "TANOBY KEY"
+    },
+    {
+      "id": "MAPSEC_BIRTH_ISLAND_FRLG",
+      "name": "ĐẢO SINH"
+    },
+    {
+      "id": "MAPSEC_MONEAN_CHAMBER",
+      "name": "MONEAN CHAMBER"
+    },
+    {
+      "id": "MAPSEC_LIPTOO_CHAMBER",
+      "name": "LIPTOO CHAMBER"
+    },
+    {
+      "id": "MAPSEC_WEEPTH_CHAMBER",
+      "name": "WEEPTH CHAMBER"
+    },
+    {
+      "id": "MAPSEC_DILFORD_CHAMBER",
+      "name": "DILFORD CHAMBER"
+    },
+    {
+      "id": "MAPSEC_SCUFIB_CHAMBER",
+      "name": "SCUFIB CHAMBER"
+    },
+    {
+      "id": "MAPSEC_RIXY_CHAMBER",
+      "name": "RIXY CHAMBER"
+    },
+    {
+      "id": "MAPSEC_VIAPOIS_CHAMBER",
+      "name": "VIAPOIS CHAMBER"
+    },
+    {
+      "id": "MAPSEC_EMBER_SPA",
+      "name": "EMBER SPA"
+    },
+    {
+      "id": "MAPSEC_SPECIAL_AREA",
+      "name": "SPECIAL AREA"
+    },
+    {
+      "id": "MAPSEC_AQUA_HIDEOUT",
+      "name": "CĂN CỨ AQUA",
+      "x": 19,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MAGMA_HIDEOUT",
+      "name": "CĂN CỨ MAGMA",
+      "x": 6,
+      "y": 3,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MIRAGE_TOWER",
+      "name": "THÁP ẢO ẢNH",
+      "x": 8,
+      "y": 2,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_BIRTH_ISLAND",
+      "name": "ĐẢO PHỤC SINH"
+    },
+    {
+      "id": "MAPSEC_FARAWAY_ISLAND",
+      "name": "FARAWAY ISLAND"
+    },
+    {
+      "id": "MAPSEC_ARTISAN_CAVE",
+      "name": "ARTISAN CAVE",
+      "x": 22,
+      "y": 12,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_MARINE_CAVE",
+      "name": "MARINE CAVE"
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_MARINE_CAVE",
+      "name": "DƯỚI NƯỚC"
+    },
+    {
+      "id": "MAPSEC_TERRA_CAVE",
+      "name": "TERRA CAVE"
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_105",
+      "name": "DƯỚI NƯỚC",
+      "x": 0,
+      "y": 10,
+      "width": 1,
+      "height": 3
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_125",
+      "name": "DƯỚI NƯỚC",
+      "x": 24,
+      "y": 3,
+      "width": 2,
+      "height": 2
+    },
+    {
+      "id": "MAPSEC_UNDERWATER_129",
+      "name": "DƯỚI NƯỚC",
+      "x": 24,
+      "y": 10,
+      "width": 2,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_DESERT_UNDERPASS",
+      "name": "DESERT UNDERPASS",
+      "x": 2,
+      "y": 0,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_ALTERING_CAVE",
+      "name": "ALTERING CAVE",
+      "x": 6,
+      "y": 8,
+      "width": 1,
+      "height": 1
+    },
+    {
+      "id": "MAPSEC_NAVEL_ROCK",
+      "name": "NAVEL ROCK"
+    },
+    {
+      "id": "MAPSEC_TRAINER_HILL",
+      "name": "ĐỒI HUẤN LUYỆN",
+      "x": 8,
+      "y": 4,
+      "width": 1,
+      "height": 1
+    }
+  ]
+}
