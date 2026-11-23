@@ -1,7 +1,7 @@
 from PIL import Image
 
-input_file = "latin_short.png"
-output_file = "latin_short_fixed.png"
+input_file = "latin_small_narrow.png"
+output_file = "latin_small_narrow_fixed.png"
 
 img = Image.open(input_file).convert("P")
 

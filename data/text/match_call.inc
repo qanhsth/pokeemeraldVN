@@ -1,6 +1,6 @@
 MatchCall_WildBattleText1::
 	.string "Hi! {PLAYER}{KUN}, hello!\n"
-	.string "This is {STR_VAR_1}.\p"
+	.string "This is {STR_VAR_1}.\p" 
 	.string "I saw this {STR_VAR_2} a while back\n"
 	.string "but I couldn't catch it.\p"
 	.string "It was so close, too!\n"

@@ -835,5 +835,5 @@ MtChimney_Text_SawyerRematchDefeat:
 
 MtChimney_Text_SawyerPostRematch:
     .string "Thực ra, ở đây rất là nóng.\n"
-    .string "Tui mặc nhiều lớp đồ quá rồi.$"
+    .string "Tui bận nhiều lớp đồ quá rồi.$"
 

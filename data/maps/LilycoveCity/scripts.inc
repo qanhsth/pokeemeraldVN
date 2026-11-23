@@ -665,8 +665,8 @@ LilycoveCity_Text_TeamAquaLotGoneForGood:
 
 LilycoveCity_Text_CitySign:
 	.string "TP.BIỂN\p"
-	.string "“Nơi kết thúc mặt đất và\n"
-	.string "mở đầu sóng biển.”$"
+	.string "“Nơi tận cùng của mặt đất,\n"
+	.string "và sóng biển ngoi lên.”$"
 
 LilycoveCity_Text_ContestHallSign:
 	.string "HỘI THI ĐẤU POKéMON\n"

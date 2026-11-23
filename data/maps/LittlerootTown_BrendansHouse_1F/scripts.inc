@@ -288,8 +288,8 @@ PlayersHouse_1F_Text_IsntItNiceInHere:
 	.string "Không phải trong này cũng thoái mái sao?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "POKéMON dời nhà phụ\n"
-	.string "rồi lát nữa quét dọn lại giùm mình luôn.\l"
+	.string "POKéMON dời nhà phụ xong rồi\n"
+	.string "còn quét dọn giùm mình nữa.\l"
 	.string "Tiện ghê ha!\p"
 	.string "{PLAYER}, phòng con ở trên lầu á.\n"
 	.string "Lên coi thử đi, con!\p"
@@ -299,7 +299,7 @@ PlayersHouse_1F_Text_MoversPokemonGoSetClock:
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
 	.string "MẸ: Ủa, {PLAYER}?\p"
-	.string "Con không thích\n"
+	.string "Con hông khoái\n"
 	.string "phòng mình hả?$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
@@ -362,10 +362,10 @@ PlayersHouse_1F_Text_RegisteredMom:
 	.string "vô BẢN ĐỒ.$"
 
 PlayersHouse_1F_Text_Vigoroth1:
-	.string "Fugiiiiih!$"
+	.string "Phừ gíiiii!$"
 
 PlayersHouse_1F_Text_Vigoroth2:
-	.string "Huggoh, uggo uggo…$"
+	.string "Hừ gô, ừ gô ừ gô…$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
 	.string "PHÓNG VIÊN: …Chúng tôi đang ở\n"

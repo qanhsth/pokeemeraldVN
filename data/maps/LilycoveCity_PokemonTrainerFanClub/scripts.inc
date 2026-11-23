@@ -629,8 +629,8 @@ LilycoveCity_PokemonTrainerFanClub_Text_ICantHelpLikingBrawly:
 LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly:
 	.string "Không ai hiểu được sức hấp dẫn của\n"
     .string "ĐÔNG…\p"
-    .string "Mặc kệ!\p"
-    .string "Dù chỉ có mình mình, tui vẫn\n"
+    .string "Kệ thôi!\p"
+    .string "Dù chỉ có một mình, tui vẫn\n"
     .string "sẽ tiếp tục cổ vũ cho ĐÔNG!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly:

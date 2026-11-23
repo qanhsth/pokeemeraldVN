@@ -750,7 +750,7 @@ PetalburgCity_Text_AreYouATrainer:
 PetalburgCity_Text_WellMaybeNot:
 	.string "… … … … … …\p"
 	.string "Vậy chắc không phải.\n"
-	.string "Mặc đồ dơ hèm vậy mà.\p"
+	.string "Bận đồ dơ hèm vậy mà.\p"
 	.string "Chắc mới là tân binh, hoặc chỉ\n"
 	.string "là đứa trẻ tầm thường mà thôi.$"
 

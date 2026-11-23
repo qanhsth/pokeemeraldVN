@@ -753,7 +753,7 @@ LilycoveCity_PokemonCenter_1F_Text_NoChangeThanks:
 
 LilycoveCity_PokemonCenter_1F_Text_ReallyImprovedThanks:
 	.string "Oh, yay!\n"
-	.string "Nó vui quá trời rồi kìa!\p"
+	.string "Nó vui quá trời!\p"
 	.string "Hình như chỉ số {STR_VAR_1} của\n"
 	.string "{STR_VAR_2} có tăng đó.\p"
 	.string "Cảm ơn nhiều nha!$"

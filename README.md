@@ -5,7 +5,7 @@
 - Mình làm project này, mục đích để giúp đỡ cộng đồng.
 Mình sẽ viết đầy đủ cách làm trong project này để người sau còn biết mà làm lại.
 Ai thấy cách làm không hay, làm ơn chỉ lại mình giùm.
- 
+
 ## TRONG NÀY CÓ GÌ?
 - Dịch toàn bộ những gì có thể dịch ra tiếng Việt.
 Những cái quá khó, thí dụ: hiệu ứng `PSN`, chữ quá nhỏ sẽ không dịch.

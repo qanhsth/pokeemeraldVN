@@ -173,5 +173,5 @@ Route109_SeashoreHouse_Text_SimonDefeated:
 Route109_SeashoreHouse_Text_SimonPostBattle:
 	.string "Nếu mà POKéMON của tui biết chiêu thức\n"
 	.string "để chở tui băng qua bên kia bờ biển,\l"
-	.string "thì tui sẽ vục cái phao này.$"
+	.string "thì tui sẽ dục cái phao này.$"
 

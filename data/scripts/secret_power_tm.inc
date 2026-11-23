@@ -1,5 +1,5 @@
 Route111_Text_MakingRoomUseTMToMakeYourOwn:
-	.string "Bạn nói gì?\n"
+	.string "Bạn nói cái gì?\n"
 	.string "Tui đang làm gì á hả?\p"
 	.string "Tui đang tính làm cái phòng ở đây\n"
 	.string "bằng cách sử dụng chiêu của POKéMON.\p"
@@ -8,13 +8,13 @@ Route111_Text_MakingRoomUseTMToMakeYourOwn:
 
 Route111_Text_ExplainSecretPower:
 	.string "Kiếm 1 cái cây bự mà có\n"
-	.string "rớt mấy cọng dây leo xuống.\p"
-	.string "Sử dụng LỰC BÍ ẨN trước cái cây.\n"
+	.string "mấy cọng dây leo rớt xuống.\p"
+	.string "Đứng trước cây, sử dụng LỰC BÍ ẨN.\n"
 	.string "Mấy cọng dây leo sẽ rớt xuống,\l"
-	.string "rồi bạn sẽ có thể leo lên cây.\p"
-	.string "Bạn sẽ có được 1 cái chỗ\n"
-	.string "cho bạn để đồ bạn thích.\p"
-	.string "Nó sẽ là căn phòng bí mật…\n"
+	.string "rồi bạn sẽ leo lên cây được thôi.\p"
+	.string "Bạn sẽ có được một chỗ\n"
+	.string "để đồ bạn thích.\p"
+	.string "Đó sẽ là căn phòng bí mật…\n"
 	.string "CĂN CỨ BÍ MẬT!\p"
 	.string "Bạn nên làm thử 1 cái đi.\p"
 	.string "Còn nữa, bạn không chỉ làm được\n"
@@ -31,7 +31,7 @@ Route111_Text_DontWantThis:
 Route111_Text_DontHaveAnyRoom:
 	.string "Ủa hết chỗ để rồi.\p"
 	.string "Vậy giờ tui cầm giùm cho,\n"
-	.string "lát nữa quay lại lấy nha?$"
+	.string "chút quay lại lấy nha?$"
 
 Route111_EventScript_SecretPowerMan::
 	lock

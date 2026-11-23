@@ -739,7 +739,7 @@ Route108_Text_MatthewPostBattle:
 
 Route108_Text_TaraIntro:
 	.string "Thằng bạn trai tui nó xạo, nó\n"
-	.string "kêu tui mặc bộ này nhìn đẹp…$"
+	.string "kêu tui bận bộ này nhìn đẹp…$"
 
 Route108_Text_TaraDefeated:
 	.string "Trời ơi!$"
@@ -797,7 +797,7 @@ Route108_Text_CarolinaDefeated:
 
 Route108_Text_CarolinaPostBattle:
 	.string "Tại đang ở trên biển, nên tui không\n"
-    .string "ngại mặc đồ bơi màu hồng có viền…$"
+    .string "ngại bận đồ bơi màu hồng có viền…$"
 
 Route109_Text_DavidIntro:
     .string "Hiyah! Nhìn bụng 6 múi của tui nè!\n"
@@ -3726,7 +3726,7 @@ Route124_Text_LilaRematchIntro:
 Route124_Text_LilaRematchDefeat:
 	.string "LA: LÔI!\n"
 	.string "Tại em mà thua nữa rồi!\p"
-	.string "Lát nữa phải tập lại đó nha!$"
+	.string "Chút nữa đi tập thêm với chị!$"
 
 Route124_Text_LilaPostRematch:
 	.string "LA: Thở dài…\p"
@@ -3749,7 +3749,7 @@ Route124_Text_RoyPostRematch:
 	.string "LÔI: Chị tui nhìn rất dữ\n"
 	.string "khi bả nổi giận.\p"
 	.string "Chút nữa, bả lôi tui đi luyện\n"
-	.string "POKéMON tiếp nè cho coi…$"
+	.string "POKéMON tiếp cho coi…$"
 
 Route124_Text_RoyRematchNotEnoughMons:
 	.string "LÔI: Bạn muốn đấu hả?\n"

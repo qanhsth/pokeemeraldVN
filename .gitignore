@@ -1,3 +1,4 @@
+graphics/types/.venv
 .migrate_changed.sh
 *.exe
 *.o
